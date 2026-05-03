@@ -67,10 +67,7 @@ Sound quality was good, consistent with the known properties of the design. Howe
 
 ### Spark Discharge: Flyback Coil Driver *(selected approach)*
 
-A flyback transformer (originally developed for Cathode Ray Tubes) produces a high-voltage pulse in the secondary when the transistor switches off, reaching tens of thousands of volts and sustaining an arc between closely spaced electrodes. These transformers are widely available as salvage from older CRT monitors and televisions. The circuit consists of a simple audio preamp, a square wave oscillator for PWM modulation, and a MOSFET driving the transformer.
-**Primary coil**
-
-Most builders replace the original primary winding with a custom coil of 5–15 turns wound directly onto the exposed ferrite core, to set a suitable primary inductance. The diode-split secondary coil integrates a high-voltage rectifier diode, making the transformer self-contained for DC arc applications. During this project, one transformer type was found that worked reliably with its original windings intact, avoiding the need for rewinding.
+A flyback transformer (originally developed for Cathode Ray Tubes) produces a high-voltage pulse in the secondary when the transistor switches off, reaching tens of thousands of volts and sustaining an arc between closely spaced electrodes. These transformers are widely available as salvage from older CRT monitors and televisions. The circuit consists of a simple audio preamp, a square wave oscillator for PWM modulation, and a MOSFET driving the transformer. Most builders replace the original primary winding with a custom coil of 5–15 turns wound directly onto the exposed ferrite core, to set a suitable primary inductance. The diode-split secondary coil integrates a high-voltage rectifier diode, making the transformer self-contained for DC arc applications. During this project, one transformer type was found that worked reliably with its original windings intact, avoiding the need for rewinding.
 
 ![Close-up of spark arc with laboratory retort clamps](assets/img/kg4_0956_electrode_arc_2017_c_jayoung_bang.jpg)
 *Close-up of spark arc, laboratory retort clamps visible. © Jayoung Bang, 2017.*
