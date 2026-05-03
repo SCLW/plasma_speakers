@@ -236,7 +236,7 @@ With [Bang&Lee](https://www.instagram.com/bangandleestudio/), a Korean media art
 <br>
 
 **[ZKM | Center for Art and Media Karlsruhe](https://zkm.de), InSonic 2017**
-Developed during a grant-supported guest research residency at ZKM. Installation presentation, 12 speakers.
+Developed during a grant-supported guest research residency at ZKM. Installation presentation, 12 speakers. Also documented on [Google Arts & Culture](https://artsandculture.google.com/asset/lorenz-schwarz-klanginstallation-f%C3%BCr-12-plasmalautsprecher-lorenz-schwarz/zAHq6W72QGGERg).
 
 ![InSonic 2017, ZKM Karlsruhe, close-up of electrodes on laboratory stand](assets/img/zkm_insonic_2017_d74_1697_c_micialmedia_zkm.jpg)
 *InSonic 2017, ZKM Karlsruhe. Detail: electrodes on laboratory stand with plasma arc. © MicialMedia / ZKM, 2017.*
@@ -252,6 +252,10 @@ klingt gut! Award.
 ---
 
 ## Links and References
+
+**Documentation**
+
+- [Google Arts & Culture — Klanginstallation für 12 Plasmalautsprecher](https://artsandculture.google.com/asset/lorenz-schwarz-klanginstallation-f%C3%BCr-12-plasmalautsprecher-lorenz-schwarz/zAHq6W72QGGERg)
 
 **Related artistic work**
 
