@@ -122,8 +122,6 @@ The brass electrode tips eroded slowly over time due to the arc. In practice, el
 *Eroded electrode tip after extended use. © Lorenz Schwarz, 2017.*
 <br>
 
-Note: some switching power supplies showed signs of degradation over extended use. The cause was never fully identified.
-
 ![Driver PCB with XLR input, balanced/unbalanced audio transformer, and heat sinks](assets/img/skv_0335_driver_pcb_2017_c_lorenz_schwarz.jpg)
 *Driver PCB: XLR input, balanced-to-unbalanced audio transformer, heat sinks. © Lorenz Schwarz, 2017.*
 <br>
@@ -149,7 +147,7 @@ Switching power supplies were chosen primarily for cost reasons, as they are
 significantly less expensive than transformer-based alternatives. However,
 longer-term experience revealed that transformer-based power supplies produced
 better results and were considerably less prone to causing failures in the
-plasma speaker driver modules. This is worth noting for future builds.
+plasma speaker driver modules. Several switching power supplies also showed signs of degradation over extended use; the cause was never fully identified. This is worth noting for future builds.
 
 ![16-channel relay-controlled power supply unit](assets/img/img_6747_multichannel_psu_2017_c_lorenz_schwarz.jpg)
 *16-channel relay-controlled power supply. © Lorenz Schwarz, 2017.*
